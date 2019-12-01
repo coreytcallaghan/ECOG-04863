@@ -1,5 +1,7 @@
 This repository is to reproduce Callaghan et al. 2019 - A continental measure of urbanness predicts avian response to local urbanization. Ecography. https://doi.org/10.1111/ecog.04863
 
+This repository is archived at Zenodo: [![DOI](https://zenodo.org/badge/224544239.svg)](https://zenodo.org/badge/latestdoi/224544239)
+
 The code was ran under the following versions of R and associated packages:
 
 
