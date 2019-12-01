@@ -1,4 +1,4 @@
-This repository is to reproduce Callaghan et al. 2019 - A continental measure of urbanness predicts avian response to local urbanization.
+This repository is to reproduce Callaghan et al. 2019 - A continental measure of urbanness predicts avian response to local urbanization. Ecography. https://doi.org/10.1111/ecog.04863
 
 The code was ran under the following versions of R and associated packages:
 
